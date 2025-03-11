@@ -2,9 +2,8 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC.<br>
 💻 Apaixonado por tecnologia, programação e inovação.<br>
-🔬 Com experiência no setor de química, mas focado em desenvolvimento de software.<br>
-🎶 Músico nas horas vagas e entusiasta de jogos da memória e emojis. 😄
-
+🎓 Também cursei **Técnico em ADS** pelo SENAI.<br>
+📚 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades na área de software.
 ---
 
 ### 🚀 Tecnologias e Ferramentas
