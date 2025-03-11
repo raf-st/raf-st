@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC.<br>
 💻 Apaixonado por tecnologia, programação e inovação.<br>
-🎓 Também cursei **Técnico em ADS** pelo SENAI.<br>
+🎓 Técnico em ADS pelo SENAI.<br>
 📚 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades na área de software.
 ---
 
