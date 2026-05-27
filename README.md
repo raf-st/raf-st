@@ -1,6 +1,5 @@
 ## 👋 Olá, eu sou o Rafael!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC.<br>
 🎓 Técnico em ADS pelo SENAI.<br>
 💻 Apaixonado por tecnologia, programação e inovação.<br>
 📚 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
