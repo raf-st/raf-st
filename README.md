@@ -21,7 +21,7 @@
 
 📧 **Email:** [rafael.tomasetti@gmail.com](mailto:rafael.tomasetti@gmail.com)  
 💼 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
-📸 **Instagram:** [@_rafas.t](https://www.instagram.com/_rafas.t/)  
+📸 **Instagram:** [@_rafaelstomasetti_](https://www.instagram.com/_rafas.t/)  
 
 ---
 
